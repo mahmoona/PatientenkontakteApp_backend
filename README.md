@@ -2,10 +2,10 @@
 
 # PatientenkontakteApp_backend
 
-###Tool 
+### Tool 
 IntelliJ IDEA
 
-##Setup
+## Setup
 To setup backend following steps needs to be followed:
 1. Checkout the master branch.
 2. Go src/main/java and select the first package.
