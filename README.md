@@ -5,6 +5,9 @@
 ### Tool 
 IntelliJ IDEA
 
+### Framework
+Spring boot
+
 ## Setup
 To setup backend following steps needs to be followed:
 1. Checkout the master branch.
